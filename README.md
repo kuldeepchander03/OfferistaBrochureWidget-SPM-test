@@ -1,0 +1,1 @@
+# OfferistaBrochureWidget-SPM-test
