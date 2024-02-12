@@ -30,11 +30,11 @@ let package = Package(
            path: "OfferistaBrochureWidgetTarget"
        ),
        .binaryTarget(name: "OfferistaBrochureWidget",
-                     url: "https://github.com/kuldeepchander03/OfferistaBrochureWidget-SPM-test/releases/download/4.0.0/OfferistaBrochureWidget.xcframework.zip",
-                     checksum: "0f0b298684ab1d201f9c3b3329e1a86238efaf057a76af8fafbe870a006531a8"),
+                     url: "https://github.com/kuldeepchander03/OfferistaBrochureWidget-SPM-test/releases/download/4.0.0-spm-beta.1/OfferistaBrochureWidget.xcframework.zip",
+                     checksum: "cb9c94364785ca4cd4ff08204dfa1a962e6cbcb281643b8e807910bbd5fbf5b8"),
        .binaryTarget(name: "SDWebImage",
-                     url: "https://github.com/kuldeepchander03/OfferistaBrochureWidget-SPM-test/releases/download/4.0.0/SDWebImage.xcframework.zip",
-                     checksum: "ff12b02a5f7c4a1b6a217426fec4f321eba378241be125f94652e6355ba9d042")
+                     url: "https://github.com/kuldeepchander03/OfferistaBrochureWidget-SPM-test/releases/download/4.0.0-spm-beta.1/SDWebImage.xcframework.zip",
+                     checksum: "584e967f395393dd65b761474cd9468122b5780c98c5b3611a5e270dc123e6ca")
     ]
 )
 
